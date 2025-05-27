@@ -1,6 +1,6 @@
 # 💻 Karen Cristhine
 
-**`Apenas uma aluna de TI se aventurando`**
+### **`Apenas uma aluna de TI se aventurando`**
 ---
 
 ### 📊 Estatísticas
