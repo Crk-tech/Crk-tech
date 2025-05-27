@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💻 Karen Cristhine
 
-<!--
-**Crk-tech/Crk-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Apenas uma aluna de TI se aventurando`**
+---
 
-Here are some ideas to get you started:
+### 📊 Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Crk-tech&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=crk-tech&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
